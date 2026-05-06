@@ -1,1 +1,1 @@
-# Scratch-game
+# Scratch-game, game made in a program called scratch, its a free online programing platform thats used mostly by starting developers/programers, to help understand how coding and programing world works.
